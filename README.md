@@ -1,17 +1,18 @@
 # localfoodsupply.org
 
-# a project of Ecocity Lifelong Learning Network, a Colorado Not for Profit Org in good standing 2015
 
 Function of thius tool is to connect farmers and consumers, and to educate along the way, with the goal of seeing more young people take up organic farming, recognizing that this project's success hinges on creating a market
 
 
-This uses the new angular router.
+This project's angular code uses the new angular router. 1.4x currently used. 
+- note- I have been experimenting with angular2 router, this seemed like a good
+- production grade setup for august 2015
 
-my roadmap is to get the core needs of the community network met quickly.
+current roadmap is to get the core needs of the community network met quickly.
 
 open up the site,
 promote it, 
-\
+
 
 add in the
 meteor-kitchen 
@@ -30,3 +31,6 @@ live in several locations, easy to update, simple to manage and understad,
 implementation
 
 alot to be learned from the http://github.com/openfoodnetwork/wiki
+
+
+# a project of Ecocity Lifelong Learning Network, a Colorado Not for Profit Org in good standing 2015
