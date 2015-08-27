@@ -1,5 +1,8 @@
-# localfoodsupply.github.io
-to connect farmers and consumers, and to educate along the way, with the goal of seeing more young people take up organic farming, recognizing that this project's success hinges on creating a market
+# localfoodsupply.org
+
+# a project of Ecocity Lifelong Learning Network, a Colorado Not for Profit Org in good standing 2015
+
+Function of thius tool is to connect farmers and consumers, and to educate along the way, with the goal of seeing more young people take up organic farming, recognizing that this project's success hinges on creating a market
 
 
 This uses the new angular router.
