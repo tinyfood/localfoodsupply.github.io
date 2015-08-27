@@ -1,1 +1,36 @@
-Local Food Supply . org : Farm to table direct.
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <script data-require="jquery@2.1.3" data-semver="2.1.3" src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script data-require="angular.js@1.3.15" data-semver="1.3.15" src="https://code.angularjs.org/1.3.15/angular.js"></script>
+    <script type="text/javascript" src="router.es5.js"></script>
+
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="components/area1/area1.js"></script>
+    <script type="text/javascript" src="components/area2/area2.js"></script>
+    <script type="text/javascript" src="components/area3/area3.js"></script>
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+      
+  </head>
+
+  <body ng-app="MyApp">
+    <h1>The Forming of a Local Food Network!</h1>
+    <ul>
+      <li>
+        <a ng-link="area0">What we can learn from Open Food Network and their 'Local Food Hubs' in Australia and new projects in UK and Denmark.</a>
+      </li>
+      <li>
+        <a ng-link="area1">How to participate</a>
+      </li>
+      <li>
+        <a ng-link="area2">what we are- what we want to become</a>
+      </li>
+      <li>
+        <a ng-link="area3">Planning for the future of local sustainable agriculture</a>
+      </li>
+    </ul>
+    <div ng-viewport=""></div>
+  </body>
+
+</html>
