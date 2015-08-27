@@ -8,7 +8,7 @@ This project's angular code uses the new angular router. 1.4x currently used.
 - note- I have been experimenting with angular2 router, this seemed like a good
 - production grade setup for august 2015
 
-current roadmap is to get the core needs of the community network met quickly.
+# current roadmap is to get the core needs of the community network met quickly.
 
 open up the site,
 promote it, 
@@ -21,14 +21,14 @@ and member invoice
 management system.
 
 
-system..
+# system..
 
 Make sure that its clear that this network is all about connecting farmers to comsumers so that they
 can make transactions with one another.  Ecocity Lifelong Learning Network provides a service here to
 keep this service confidential, private, accurate, updated, available to its users, well managed, backed up,
 live in several locations, easy to update, simple to manage and understad, 
 
-implementation
+# implementation
 
 alot to be learned from the http://github.com/openfoodnetwork/wiki
 
