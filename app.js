@@ -18,7 +18,7 @@ app.run(['$router', function ($router) {
         },
         {
             path: '/',
-            redirectTo: '/area1'
+            redirectTo: '/area0'
         }
     ]);
 }]);
