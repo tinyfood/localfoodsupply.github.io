@@ -20,6 +20,10 @@ app.run(['$router', function ($router) {
             path: '/area4',
             component: 'area4'
         },
+         {
+            path: '/area0',
+            component: 'area0'
+        },
         {
             path: '/',
             redirectTo: '/area0'
