@@ -1,5 +1,5 @@
 app.controller('Area4Controller', function () {
     console.log('Area4Controller');
-    this.name = 'What we are as a food network, and what we want to become.';
-    this.content = 'We are currently a group of friends, some of whom keep chickens and sell eggs, some of whom are involved in grassfed organic beef, and llama fur production, others among us are info urban aquaculture and specialty herbs- basil, microgreens, who are you?';
+    this.name = 'Planning for the future of local sustainable agriculture.';
+    this.content = 'We\'d like to be a strong network resource to help connect people for planning via optiopns for providing for markets in the mountains.      Better tools allow us to plan budgets based on expectations of the market by seeing early signups and regular buyers in our network expressing support, the next season could be bountiful.';
 });
