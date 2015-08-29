@@ -16,10 +16,6 @@ app.run(['$router', function ($router) {
             path: '/area3',
             component: 'area3'
         },
-         {
-            path: '/area4',
-            component: 'area4'
-        },
         {
             path: '/',
             redirectTo: '/area1'
