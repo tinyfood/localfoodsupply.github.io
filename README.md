@@ -1,6 +1,10 @@
 # localfoodsupply.org
 
 
+11-12-2015 - update, updates for local food mailbox project underway.
+ simple artful program that enables secure food drop offs and less time requirements per dropoff for food providers
+
+
 Function of thius tool is to connect farmers and consumers, and to educate along the way, with the goal of seeing more young people take up organic farming, recognizing that this project's success hinges on creating a market
 
 
