@@ -37,4 +37,4 @@ live in several locations, easy to update, simple to manage and understad,
 alot to be learned from the http://github.com/openfoodnetwork/wiki
 
 
-# a project of Ecocity Lifelong Learning Network, a Colorado Not for Profit Org in good standing 2015
+# a project of Ecocity Lifelong Learning Network, a Colorado Not for Profit Org in good standing 2016
